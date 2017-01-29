@@ -74,7 +74,6 @@ btn.addEventListener('click', function () {
 });
 
 life.addEventListener('click', function () {
-    console.log(1);
     creaneTable(width, height);
 });
 
